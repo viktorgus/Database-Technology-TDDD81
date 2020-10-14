@@ -10,4 +10,4 @@ Below are diagrams representing the database created when running lab4.sql
 ![EER-Diagram](EER-diagram.png?raw=true "EER-Diagram")
 
 ## Relational Model
-![Relational Model](Relational model.png?raw=true "Relational Model")
+![Relational Model]("Relational model.png"?raw=true "Relational Model")
